@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mail-1.4.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mail-1.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/mail-1.4.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
